@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReumePort/static/css/main.f790d3c7.css",
+    "main.js": "/ReumePort/static/js/main.48cc84a1.js",
+    "static/js/453.1407b060.chunk.js": "/ReumePort/static/js/453.1407b060.chunk.js",
+    "static/media/final.pdf": "/ReumePort/static/media/final.3712999dfa174a17ed5f.pdf",
+    "index.html": "/ReumePort/index.html",
+    "main.f790d3c7.css.map": "/ReumePort/static/css/main.f790d3c7.css.map",
+    "main.48cc84a1.js.map": "/ReumePort/static/js/main.48cc84a1.js.map",
+    "453.1407b060.chunk.js.map": "/ReumePort/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f790d3c7.css",
+    "static/js/main.48cc84a1.js"
+  ]
+}
