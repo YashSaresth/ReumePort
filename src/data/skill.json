@@ -1,0 +1,38 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "https://github.com/YashSaresth/portfolio/assets/144685676/518d900f-b2fb-44fa-9a03-842b973b16c6"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "https://github.com/YashSaresth/portfolio/assets/144685676/d836f992-1b22-490b-b6b0-bda50e61f624"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "https://github.com/YashSaresth/portfolio/assets/144685676/4c4a181c-58b5-49a7-a95e-e8150c9fd51f"
+    },
+    {
+      "title": "React",
+      "imageSrc": "https://github.com/YashSaresth/portfolio/assets/144685676/e243ebd3-44f7-42df-9aea-d9762b5f9d0e"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "https://github.com/YashSaresth/portfolio/assets/144685676/be40c783-8dd0-4464-a9c6-c61404d06704"
+    },
+    {
+      "title":"Java",
+      "imageSrc":"https://github.com/YashSaresth/portfolio/assets/144685676/5c3017d4-8ee4-42d2-873f-70e589c03357"
+    },
+    {
+      "title": "MySQLQ",
+      "imageSrc": "https://github.com/YashSaresth/portfolio/assets/144685676/4ac6e6bb-3b85-46b8-aa3b-3aa8de232d04"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "https://github.com/YashSaresth/portfolio/assets/144685676/6ea6f180-cf93-4723-9d75-c2aae60a0ef7"
+    },
+    {
+      "title": "DSA",
+      "imageSrc": "https://github.com/YashSaresth/portfolio/assets/144685676/268f88a5-a896-4443-aedc-41b1016ec1a0"
+    }
+  ]

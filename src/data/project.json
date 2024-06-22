@@ -1,0 +1,34 @@
+[
+    {
+      "key": 1,
+      "title": "chatApplication",
+      "imageSrc": "https://github.com/YashSaresth/portfolio/assets/144685676/e7e3ac11-4b26-4981-997b-68537ebc8080",
+      "description": "This is a project made with java swings and socket programming.",
+      "demo": "https://www.example.com",
+      "source": "https://github.com/YashSaresth"
+    },
+    {
+      "key": 2,
+      "title": "Fashion Recommendation System",
+      "imageSrc": "https://github.com/YashSaresth/portfolio/assets/144685676/90ccd23f-cd5a-4cec-9211-c3f2a50dd949",
+      "description": "This is a project made with Deep Learning Models.",
+      "demo": "https://www.example.com",
+      "source": "https://github.com/YashSaresth"
+    },
+    {
+      "key": 3,
+      "title": "News App",
+      "imageSrc": "https://github.com/YashSaresth/portfolio/assets/144685676/217f80a0-9ba0-450a-bec6-4c3734fe8097",
+      "description": "This is a project made with complete React js.",
+      "demo": "https://www.example.com",
+      "source": "https://github.com/YashSaresth"
+    },
+    {
+      "key": 4,
+      "title": "Tic Tack ",
+      "imageSrc": "https://github.com/YashSaresth/portfolio/assets/144685676/712e4c75-5d1f-49f5-9325-6595d60bb7db",
+      "description": "This is a project made with complete frontend .",
+      "demo": "https://www.example.com",
+      "source": "https://github.com/YashSaresth"
+    }
+  ]
